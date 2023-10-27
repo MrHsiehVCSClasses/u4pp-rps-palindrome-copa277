@@ -1,13 +1,13 @@
 package u4pp;
 /**
-* YOUR COMMENTS HERE
+* YOUR COMMENTS HEREthis si the my proejct with both fo the thigns nwo and they whould work hee going to work on mkaing sure that it is sfliippable thorugh the reverse and comparing the string and then compare each and eery letter for punctuation 
 */
 import java.util.Scanner;
 
 public class PalindromeTester {
-    /**
-     * YOUR JAVADOC HERE
-     */
+    /** 
+     * YOUR JAVADOC HERE here is oign to be the wring and such 
+     */ 
     public static void execute(Scanner sc) {
         /* YOUR CODE HERE */
     	String pee="";
@@ -60,7 +60,7 @@ public class PalindromeTester {
     
 
     /**
-     * YOUR JAVADOC HERE
+     * YOUR JAVADOC HERE  my acutal way to chekc for palindome 
      */
     public static boolean isPalindrome(String phrase) {
     	String reverse="";

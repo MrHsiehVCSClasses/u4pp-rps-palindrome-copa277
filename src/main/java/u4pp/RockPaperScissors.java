@@ -1,7 +1,7 @@
 package u4pp;
 
 /**
-* JAVADOC HERE
+* JAVADOC HERE create the small code for here will make each set of interacito nand will make it viable 
 */
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ public class RockPaperScissors {
     /* any code you need here for part b */
 
     /**
-     * JAVADOC HERE
+     * JAVADOC HEREhere is intializing veythign 
      */
     public static void play(Scanner sc) {
     	System.out.println("Welcome to Rock Paper Scissors");
@@ -134,7 +134,7 @@ public class RockPaperScissors {
     }
 
     /**
-     * JAVADOC HERE
+     * JAVADOC HERE here is all fo the diferent ases for it 
      */
     public static int results(String playerChoice, String computerChoice) {
     	playerChoice.toUpperCase();
